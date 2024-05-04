@@ -1,1 +1,1 @@
-print("Илюшка педик")
+print("Илюшка good ckum")
